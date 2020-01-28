@@ -3,3 +3,5 @@ _project.xml
 _classpath.xml
 bin/
 .settings/
+.project
+.classpath
